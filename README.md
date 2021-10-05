@@ -24,3 +24,33 @@ DevOps is a group of concepts and practices that gets software out into the worl
   
 
 
+## References  
+
+### YouTube  
+
+#### Azure DevOps, Git and VS Code
+See [YouTube Video](https://youtu.be/8ER87ePdoCU)  
+  
+Author: **Travis Roberts**  
+Visit [youtube](https://www.youtube.com/c/TravisRoberts/featured) page.  
+Visit Travis Roberts' [blog](https://www.ciraltos.com/).
+  
+**GIT**  
+1. Visit [](https://git-scm.com/). Click "Download For..." to download for your local OS.  
+1. Run the installer and use default settings.  
+  
+**GIT BASH**  
+Update username.
+```  
+$ Git config --global user.name "John Doe"
+```  
+  
+Update email.  
+```  
+$ Git config --global user.email "john.doe@gmail.com"  
+```  
+  
+**Azure DevOps**  
+1. Go to the repo in Azure DevOps  
+1. 
+---  
